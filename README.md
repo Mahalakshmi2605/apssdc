@@ -1,4 +1,4 @@
 # apssdc
 sample repository
 
-[GitHub0(http://github.com)
+[GitHub](http://gmail.com)
