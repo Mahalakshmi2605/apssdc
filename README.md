@@ -1,8 +1,5 @@
 # apssdc
 sample repository
 
-1. Item 1
-2. Item 2
-3. Item 3
-  * Item 3a
-  * Item 3b
+![GitHub Logo](/images/logo.png)
+![rose](https://www.thephotoargus.com/wp-content/uploads/2020/02/rosepic12.jpg)
